@@ -9,12 +9,13 @@ Usage
     git clone https://github.com/lwieui/Parcel_Vue.git
 
 Ecosystem
-
 Project	Status	Description
-
-vue	vue-status	Single-page framework
-vue-router	vue-router-status	Single-page application routing
-parcel-bundler	parcel-status	Blazing fast, zero configuration web application bundler
+vue	
+vue-router	
+vue-hot-reload-api
+parcel-bundler
+@vue/component-compiler-utils
+vue-template-compiler	
 
 Questions
 
